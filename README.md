@@ -20,7 +20,7 @@ We also provide some keywords that can interact with MySql DB.
 - Get DB Value  ${sqlStatementKey}.${queryField}
 
 ## Run cases in Example
-Download or clone example codes [api-autotest-example](.).
+Download or clone example codes [api-autotest-example](https://github.com/lilyhu2014/api-autotest-example).
 Open up `api-autotest-example` workspace directory.
 
 ### Start api service
